@@ -5,4 +5,4 @@ service:
   port: 3000
   discoveryTTL: 5
   extensions:
-    - url: https://github.com/stelligent/mu-datadog/archive/v0.1.zip
+  - url: https://github.com/stelligent/mu-datadog/archive/v0.1.zip
